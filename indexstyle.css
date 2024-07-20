@@ -1,0 +1,164 @@
+.main{
+    display: flex;
+    color: white;
+    justify-content: space-between;
+    position: fixed;
+    background-color: black;
+    width: 1475px;
+    margin-top: -80px;
+}
+#options{
+    display: flex;
+    justify-content: space-evenly;
+    height: 50px;
+    width: 450px;
+    margin-top: 25px;
+    margin-left: 880px;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+#quote{
+    height: 350px;
+    width: 1470px;
+    margin-top: 90px;
+    border: solid black;
+    text-align: center;
+    padding-top: 15%;
+}
+#quote1{
+    font-size: xx-large;
+    
+}
+h2{
+    margin-left: 15px;
+}           
+#bio{
+    height: 480px;
+    width: 1470px;
+    border: solid black;
+    background:white;
+    color: white;
+}
+#bio_main{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 120px;
+}
+#button{
+    height: 150px;
+    width: 200px;
+    border: 1px solid black;
+    background-color:grey;
+    color: black;
+    margin-left: 410px;
+    padding-top: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-bottom: 5px;
+    text-align: center;
+
+}
+p{
+    color: black;
+    margin-left: 25%;
+    margin-left: 100px;
+    margin-top: 10px;
+    font-size: medium;
+}
+#p1{
+    height: 250px;
+    width: 250px;
+    border: 2px solid black;
+    margin: auto;
+    text-align:center;
+    border-radius: 10px;
+    background-color: burlywood;
+    color: white;
+
+}
+#main1{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 5%;
+}
+hr{
+    width: 700px;
+}
+#po{
+    text-align: center;
+    font-size: x-large;
+    color: cornflowerblue;
+}
+h4{
+    text-align: center;
+    font-size: larger;
+}
+img{
+    height: 35px;
+    width: 35px;
+    border-radius: 50%;
+    margin-top: 25px;
+
+}
+h3{
+    color: black;
+    text-decoration: underline;
+}
+#m4{
+    font-size: large;
+    text-justify: auto;
+    margin: 10px;
+}
+#kil{
+    
+    justify-content: space-between;
+    height: 700px;
+    width: 1470px;
+    border: solid black; 
+    text-align: justify;
+    margin-top: 120px;
+}
+#wo{
+    text-align: center;
+    margin-top: 60px;
+}
+#boom{
+    display: flex;
+    margin-top: 60px;
+    justify-content: space-evenly;
+    text-align: justify;
+}
+#pro{
+    text-align: justify;
+}
+#title{
+    font-size: x-large;
+    margin-bottom: 50px;
+}
+#x1{
+    height: 20px;
+    width: 20px;
+    margin-top: 10px;
+    
+}
+#x2{
+    height: 20px;
+    width: 40px;
+}
+#x3{
+    text-align: center;
+    font-size: xx-large;
+}
+#button:hover{
+    background-color: firebrick;
+    color: darkcyan;
+}
+#img1{
+    height: 300px;
+    width: 500px;
+    margin-left: 65px;
+    margin-top: -3%;
+
+}
